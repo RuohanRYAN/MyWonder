@@ -8,6 +8,10 @@ Over-specification: Redundant terminology and functionalities in the user interf
 
 Product defects: Cloud-based platform system failure and excessive internet overhead will affect the performance of our product.  
 
+# Milestones  
+* Have a design review with clients. This is a milestone because it maps to a key objective in the project. It's important for the team.  
+* Create a production and test environment. This is a milestone because it's a tangible and important for the team to have different versions of working products so that a stable version can always be used for demonstration.  
+* Draft a MyWdoner project statement. Properly state the project description and identify the issues we are solving for our potential clients. Layout the blue prints of out product, along with the advantages and risks. Locate the selling points and draft an elevator pitch. This is a milestone because it lays out the steps we need to follow and provide guidance the team's workflow.  
 
 ### Markdown
 
