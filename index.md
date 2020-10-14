@@ -17,4 +17,4 @@ Product defects: Cloud-based platform system failure and excessive internet over
 * Create a state of the art cloud-based online platforma for data visualization and analysis. This is a deliverable because it's a tangible product that meets the client's requirement.  
 * Add a note taking functionality to the visualization. This is a deliverable because it's a tangible function requested by the clients. 
 # Gantt Chart
-![image]Screenshot 2020-10-14 181124.png
+![image](Screenshot 2020-10-14 181124.png)
