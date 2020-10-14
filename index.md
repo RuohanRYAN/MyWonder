@@ -13,6 +13,9 @@ Product defects: Cloud-based platform system failure and excessive internet over
 * Create a production and test environment. This is a milestone because it's a tangible and important for the team to have different versions of working products so that a stable version can always be used for demonstration.  
 * Draft a MyWdoner project statement. Properly state the project description and identify the issues we are solving for our potential clients. Layout the blue prints of out product, along with the advantages and risks. Locate the selling points and draft an elevator pitch. This is a milestone because it lays out the steps we need to follow and provide guidance the team's workflow.  
 
+# Deliverables 
+* Create a state of the art cloud-based online platforma for data visualization and analysis. This is a deliverable because it's a tangible product that meets the client's requirement.  
+* Add a note taking functionality to the visualization. This is a deliverable because it's a tangible function requested by the clients. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
