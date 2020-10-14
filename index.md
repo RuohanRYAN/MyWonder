@@ -1,8 +1,12 @@
 ## MyWonder cloud-based computing platform  
 
-You can use the [editor on GitHub](https://github.com/RuohanRYAN/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Three watses in this project  
+Extra-storage: Storing unnecessary files on the cloud. Customer will sometimes forget what they have stored in the system and create subplicate files. These duplicated files take up huge space and reduce speed for other applications.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over-specification: Redundant terminology and functionalities in the user interface. "test visualization" and "test content" seems to be in the same functionality. Such redundency will cause confusion in user experience.  
+
+Product defects: Cloud-based platform system failure and excessive internet overhead will affect the performance of our product.  
+
 
 ### Markdown
 
