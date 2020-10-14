@@ -1,5 +1,6 @@
 ## MyWonder cloud-based computing platform  
-
+# project summary
+MyWonder is a cloud-based platform for data anslysis and visualizations. Traditionally, visualizing big data takes a long time and occupies a large portion of local storage. Our cloud-based platform moved the data storage to the cloud and carries most of the computation online, consequently enables a faster user experience during analysis.
 # Three watses in this project  
 Extra-storage: Storing unnecessary files on the cloud. Customer will sometimes forget what they have stored in the system and create subplicate files. These duplicated files take up huge space and reduce speed for other applications.  
 
