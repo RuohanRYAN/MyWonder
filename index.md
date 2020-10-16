@@ -4,7 +4,7 @@ MyWonder is a cloud-based platform for data anslysis and visualizations. Traditi
 # Three watses in this project  
 Extra-storage: Storing unnecessary files on the cloud. Customer will sometimes forget what they have stored in the system and create subplicate files. These duplicated files take up huge space and reduce speed for other applications.  
 
-Over-specification: Redundant terminology and functionalities in the user interface. "test visualization" and "test content" seems to be in the same functionality. Such redundency will cause confusion in user experience.  
+Skills: Staffs are spending time on tasks for which they are not originally trained. For example, due to the flaws in staff managing, the team manager had to make multiple phone calls to find out who is responsible for updating the content before a demo. As a project manager, his job should be organizing the project and keep everyone on track, not locating staffs. 
 
 Product defects: Cloud-based platform system failure and excessive internet overhead will affect the performance of our product.  
 
